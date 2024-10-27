@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamirulhkhan&label=AmirulHKhan%20Profile%20visitors%20today&color=blueviolet&style=flat" alt="Amirul H Khan" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **AI ML**
 
 - 💬 Ask me about **C++, PHP, Python, Laravel, Codeigniter, Javascript and Java**
 
