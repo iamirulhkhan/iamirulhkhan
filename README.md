@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer Specialized in Web and Android </h3>
 <img  align="right" alt="Amirul H Khan - Programmer" width="400" src="https://user-images.githubusercontent.com/48166328/87433509-02119980-c607-11ea-8285-f1136a57d3d2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamirulhkhan&label=AmirulHKhan%20Profile%20visitors%20today&color=blueviolet&style=flat" alt="Amirul H Khan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamirulhkhan&label=AmirulHKhan%20Profile%20visitors&color=blueviolet&style=flat" alt="Amirul H Khan" /> </p>
 
 - 🌱 I’m currently learning **AI ML**
 
