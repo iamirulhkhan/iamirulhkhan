@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI ML**
 
-- 💬 Ask me about **C++, PHP, Python, Laravel, Codeigniter, Javascript and Java**
+- 💬 Ask me about **C++, PHP, Python, Laravel, Codeigniter, Javascript, MERN  and Java**
 
 
 <h3 align="left">Languages and Tools:</h3>
